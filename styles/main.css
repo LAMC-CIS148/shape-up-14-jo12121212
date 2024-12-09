@@ -102,7 +102,7 @@ section p {
 
 section video, section audio {
     display: block;
-    width: 100%;
+    width: 50%;
     margin: 15px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
